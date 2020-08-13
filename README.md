@@ -1,2 +1,22 @@
 # AI-for-Medicine-Specialization
-This repository contains Notebooks with the solutions for the assignments of the "AI for Medicine Specialization" on Coursera.
+This repository contains Notebooks with my solutions for the assignments of the "AI for Medicine Specialization" on Coursera.
+
+There are 3 Courses for **"AI for Medicine Specialization"** which are:
+## 1. AI for Medical Diagnosis
+   - The nuances of working with 2D and 3D medical data
+   - Convolutional Neural Network for diagnosis of lung disease by looking at a chest X-ray.
+   - Segmentation model for detecting brain disorders.
+
+[Week 1](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Diagnosis/Week_1): Training of a Deep learning model that can interpret chest X-rays to classify different disease causes.<br>
+
+## 2. AI for Medical Prognosis
+   - Learn how to work with Structured data
+   - Risk models and survival estimators for heart disease using tree-based statistical models to improve patient survival estimates. 
+   - Random forest predictor to determine patient prognosis
+
+## 3. AI For Medical Treatment
+   - Build a treatment effect predictor, apply model interpretation techniques
+   - Natural language processing to extract information from radiology reports
+   - Explore how Natural language extraction can more efficiently label medical datasets.
+
+
