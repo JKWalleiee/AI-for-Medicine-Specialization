@@ -8,7 +8,7 @@ There are 3 Courses for **"AI for Medicine Specialization"** which are:
    - Segmentation model for detecting brain disorders.
 
 [Week 1](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Diagnosis/Week_1): Training of a Deep learning model that can interpret chest X-rays to classify different disease causes.<br>
-[Week 2](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI for Medical Diagnosis/Week_2): Evaluation methodologies to assess the quality of a model.
+[Week 2](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Diagnosis/Week_2): Evaluation methodologies to assess the quality of a model.
 
 ## 2. AI for Medical Prognosis
    - Learn how to work with Structured data
