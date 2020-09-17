@@ -16,10 +16,10 @@ There are 3 Courses for **"AI for Medicine Specialization"** which are:
    - Risk models and survival estimators for heart disease using tree-based statistical models to improve patient survival estimates. 
    - Random forest predictor to determine patient prognosis.
  
-[Week 1](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI for Medical Prognosis/Week_1): Build and Evaluate a Linear Risk model.<br>
-[Week 2](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI for Medical Prognosis/Week_2): Risk Models Using Tree-based Models.<br>
-[Week 3](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI for Medical Prognosis/Week_3): Survival Estimates that Varies with Time.<br>
-[Week 4](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI for Medical Prognosis/Week_4): Cox Proportional Hazards and Random Survival Forests.<br>
+[Week 1](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%for%Medical%Prognosis/Week_1): Build and Evaluate a Linear Risk model.<br>
+[Week 2](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%for%Medical%Prognosis/Week_2): Risk Models Using Tree-based Models.<br>
+[Week 3](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%for%Medical%Prognosis/Week_3): Survival Estimates that Varies with Time.<br>
+[Week 4](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/AI%for%Medical%Prognosis/Week_4): Cox Proportional Hazards and Random Survival Forests.<br>
 
 ## 3. AI For Medical Treatment
    - Build a treatment effect predictor, apply model interpretation techniques
