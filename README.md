@@ -26,4 +26,6 @@ There are 3 Courses for **"AI for Medicine Specialization"** which are:
    - Natural language processing to extract information from radiology reports
    - Explore how Natural language extraction can more efficiently label medical datasets.
 
+[Week 1](https://github.com/JKWalleiee/AI-for-Medicine-Specialization/tree/master/Ai%20for%20Medical%20Treatment/Week_1): Estimate treatment effect using Machine Learning .<br>
+
 
